@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\HP-PC\Програмування\Computer science\ADT_dvozvyaznui_spusok\Source.cpp(12,19): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\HP-PC\Програмування\Computer science\ADT_dvozvyaznui_spusok\Source.cpp(15,20): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\HP-PC\Програмування\Computer science\ADT_dvozvyaznui_spusok\List.h(384): warning C4172: returning address of local variable or temporary: temp
+C:\Users\HP-PC\Програмування\Computer science\ADT_dvozvyaznui_spusok\List.h(378): warning C4172: returning address of local variable or temporary: temp
+  ADT_dvozvyaznui_spusok.vcxproj -> C:\Users\HP-PC\Програмування\Computer science\ADT_dvozvyaznui_spusok\x64\Debug\ADT_dvozvyaznui_spusok.exe
